@@ -1,0 +1,6 @@
+E:\Proga\C#\Excel_1.0\Lub1(excel)\Lub1(excel)\obj\Debug\net6.0-windows\CalculatorLexer.cs
+E:\Proga\C#\Excel_1.0\Lub1(excel)\Lub1(excel)\obj\Debug\net6.0-windows\CalculatorParser.cs
+E:\Proga\C#\Excel_1.0\Lub1(excel)\Lub1(excel)\obj\Debug\net6.0-windows\CalculatorListener.cs
+E:\Proga\C#\Excel_1.0\Lub1(excel)\Lub1(excel)\obj\Debug\net6.0-windows\CalculatorBaseListener.cs
+E:\Proga\C#\Excel_1.0\Lub1(excel)\Lub1(excel)\obj\Debug\net6.0-windows\CalculatorVisitor.cs
+E:\Proga\C#\Excel_1.0\Lub1(excel)\Lub1(excel)\obj\Debug\net6.0-windows\CalculatorBaseVisitor.cs
